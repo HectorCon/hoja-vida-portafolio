@@ -15,6 +15,7 @@
           "options": {
             "outputPath": "dist/hoja-vida-hector",
             "baseHref": "/hoja-vida-portafolio/",
+            
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
